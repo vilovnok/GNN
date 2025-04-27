@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "gnn"
+version = "0.1.0"
+description = "This repository provides clean and minimal implementations of classical Graph Neural Network (GNN) algorithms."
+authors = ["vilovnok <vilovnok@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^2.2.5"
+matplotlib = "^3.10.1"
+networkx = "^3.4.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
