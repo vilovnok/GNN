@@ -31,7 +31,7 @@ This repository contains clean and minimal implementations of classical Graph Ne
     <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GraphSAGE</td>
     <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">nan</td>
     <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"><a href="https://arxiv.org/pdf/1706.02216">paper</a></td>
-    <td style="padding: 10px; text-align: center; border: 1px solid #ddd; color: #FF9800; font-weight: bold; font-style: italic;">⏳ In Progress</td>
+    <td style="padding: 10px; text-align: center; border: 1px solid #ddd; color: #F44336; font-weight: bold; font-style: italic;">✖ Stopped</td>
   </tr>
   <tr>
     <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">Graphormer</td>
