@@ -1,6 +1,6 @@
 # Classical GNN Algorithms
 
-This repository contains clean and minimal implementations of classical Graph Neural Network (GNN) algorithms. The goal is to provide an educational and practical foundation for understanding how fundamental GNN models work from scratch in numpy.
+This repository contains clean and minimal implementations of classical Graph Neural Network (GNN) algorithms. The goal is to provide an educational and practical foundation for understanding how fundamental GNN models work from scratch.
 
 ![graph](artifacts/images/graph.png)
 
